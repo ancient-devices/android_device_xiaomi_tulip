@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_twolip.mk
+    $(LOCAL_DIR)/ancient_twolip.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_twolip-user \
-    aosp_twolip-userdebug \
-    aosp_twolip-eng
+    ancient_twolip-user \
+    ancient_twolip-userdebug \
+    ancient_twolip-eng
